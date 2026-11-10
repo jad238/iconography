@@ -1,0 +1,1 @@
+A centralized repository for storing and managing shared icons, images, and common graphical assets used across multiple applications. It provides a consistent, reusable source for visual resources, promoting standardization, reducing duplication, and simplifying maintenance across projects.
